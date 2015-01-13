@@ -1,0 +1,25 @@
+NAME
+    Task::Tags - Install the Tags modules.
+
+SYNOPSIS
+     cpanm Task::Tags
+
+SEE ALSO
+    Tags, Tags::Element, Tags::Output::PYX.
+
+REPOSITORY
+    <https://github.com/tupinek/Taks-Tags>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2014 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
