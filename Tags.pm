@@ -31,7 +31,7 @@ L<Tags::Output::PYX>.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Taks-Tags>
+L<https://github.com/tupinek/Task-Tags>
 
 =head1 AUTHOR
 
