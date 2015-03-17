@@ -35,4 +35,4 @@ resources:
   homepage: https://github.com/tupinek/Task-Tags
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/tupinek/Task-Tags
-version: '0.02'
+version: '0.03'
