@@ -5,7 +5,8 @@ SYNOPSIS
      cpanm Task::Tags
 
 SEE ALSO
-    Tags, Tags::Element, Tags::Output::Indent, Tags::Output::PYX.
+    Tags, Tags::Element, Tags::Output::Indent, Tags::Output::PYX,
+    Tags::Output::Structure.
 
 REPOSITORY
     <https://github.com/tupinek/Task-Tags>

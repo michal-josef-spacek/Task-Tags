@@ -28,7 +28,8 @@ Task::Tags - Install the Tags modules.
 L<Tags>,
 L<Tags::Element>,
 L<Tags::Output::Indent>,
-L<Tags::Output::PYX>.
+L<Tags::Output::PYX>,
+L<Tags::Output::Structure>.
 
 =head1 REPOSITORY
 
