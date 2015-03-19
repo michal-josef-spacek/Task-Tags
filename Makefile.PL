@@ -14,7 +14,7 @@ readme_from 'Tags.pm';
 requires 'Tags' => 0.03;
 requires 'Tags::Element' => 0.01;
 requires 'Tags::Output::Indent' => 0.01;
-requires 'Tags::Output::PYX' => 0.01;
+requires 'Tags::Output::PYX' => 0.02;
 requires 'Tags::Output::Structure' => 0.01;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.

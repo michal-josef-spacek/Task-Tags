@@ -1,5 +1,6 @@
 0.03
  - Add Tags::Output::Structure 0.01 version.
+ - Update Tags::Output::PYX to 0.02 version.
 
 0.02 2015-03-17T11:04:19+01:00
  - Add Tags::Output::Indent 0.01 version.
