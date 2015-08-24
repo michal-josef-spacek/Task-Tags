@@ -14,6 +14,9 @@ SEE ALSO
     Tags::Output::Indent
         Indent class for Tags.
 
+    Tags::Output::LibXML
+        LibXML output for Tags.
+
     Tags::Output::PYX
         PYX class for line oriented output for 'Tags'.
 

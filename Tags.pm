@@ -39,6 +39,10 @@ Element utilities for 'Tags'.
 
 Indent class for Tags.
 
+=item L<Tags::Output::LibXML>
+
+LibXML output for Tags.
+
 =item L<Tags::Output::PYX>
 
 PYX class for line oriented output for 'Tags'.
