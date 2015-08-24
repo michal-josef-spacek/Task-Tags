@@ -1,5 +1,6 @@
 0.04
  - Improve SEE ALSO section in doc.
+ - Update Module::Install to 1.16 version.
  - Update Tags::Output::Structure to 0.03 version.
 
 0.03 2015-03-20T07:21:23+01:00
