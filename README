@@ -5,8 +5,26 @@ SYNOPSIS
      cpanm Task::Tags
 
 SEE ALSO
-    Tags, Tags::Element, Tags::Output::Indent, Tags::Output::PYX,
-    Tags::Output::Structure.
+    Tags
+        Structure oriented SGML/XML/HTML/etc. elements manipulation.
+
+    Tags::Element
+        Element utilities for 'Tags'.
+
+    Tags::Output::Indent
+        Indent class for Tags.
+
+    Tags::Output::PYX
+        PYX class for line oriented output for 'Tags'.
+
+    Tags::Output::Raw
+        Raw printing 'Tags' structure to tags code.
+
+    Tags::Output::Structure
+        Structure class for 'Tags' output.
+
+    Tags::Output::LibXML
+        Printing 'Tags' structure by LibXML library.
 
 REPOSITORY
     <https://github.com/tupinek/Task-Tags>

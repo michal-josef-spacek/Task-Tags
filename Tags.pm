@@ -25,11 +25,37 @@ Task::Tags - Install the Tags modules.
 
 =head1 SEE ALSO
 
-L<Tags>,
-L<Tags::Element>,
-L<Tags::Output::Indent>,
-L<Tags::Output::PYX>,
-L<Tags::Output::Structure>.
+=over
+
+=item L<Tags>
+
+Structure oriented SGML/XML/HTML/etc. elements manipulation.
+
+=item L<Tags::Element>
+
+Element utilities for 'Tags'.
+
+=item L<Tags::Output::Indent>
+
+Indent class for Tags.
+
+=item L<Tags::Output::PYX>
+
+PYX class for line oriented output for 'Tags'.
+
+=item L<Tags::Output::Raw>
+
+Raw printing 'Tags' structure to tags code.
+
+=item L<Tags::Output::Structure>
+
+Structure class for 'Tags' output.
+
+=item L<Tags::Output::LibXML>
+
+Printing 'Tags' structure by LibXML library.
+
+=back
 
 =head1 REPOSITORY
 
