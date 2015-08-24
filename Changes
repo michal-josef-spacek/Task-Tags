@@ -1,4 +1,4 @@
-0.04
+0.04 2015-08-24T12:52:27+02:00
  - Add Tags::Output::LibXML 0.01 version.
  - Improve SEE ALSO section in doc.
  - Update Module::Install to 1.16 version.

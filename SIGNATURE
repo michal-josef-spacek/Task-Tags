@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.79.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,34 +14,34 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 a7229b01845cec26774bcabff3a00323c8d1f47d Changes
+SHA1 3def8eeda51a137816edc4dfb5399767e0923e10 Changes
 SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
 SHA1 6d7dc1c864a3fd9c82371f6716b89bd2fe7e8a8b MANIFEST
-SHA1 3c81dd28d1a0f8f7dca2b884722fbd6e09961f76 META.yml
-SHA1 5499a36321aa04c733d9f9748427cceeab43df8c Makefile.PL
-SHA1 2e5c61d2d3e7da35b195c35bc3860f6f00ed420b README
-SHA1 56c4863f4c1cff99a5f9b3189350714719bef5be Tags.pm
-SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
-SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
-SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
-SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
-SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
-SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 08dcbec3ea909ba8e5180d51afa5f44716bbd6f2 META.yml
+SHA1 b1075e43f977e348c1447c6bea96cc49fa345eae Makefile.PL
+SHA1 df44059181b71f52b01e16c26b0bbf718a03d4a2 README
+SHA1 5365f20d57c67f44f711bdb9bc040a8713708fbd Tags.pm
+SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
+SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
+SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
+SHA1 76efdca3603159e0ae0e18f19fe72a0211a69529 inc/Module/Install/Makefile.pm
+SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
-SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
+SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
+SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 a57ca37f20666f3aa1495b072a8fcfb71414300d t/Task-Tags/00-use.t
-SHA1 1b0d4dba6ec531c2e7b53fc4c29ced1f21a84d31 t/Task-Tags/01-version.t
+SHA1 d6d9178b0e7ef6204269910260bd4cf36869a920 t/Task-Tags/01-version.t
 SHA1 5eb59c2462e427c0472ea6ece025ada4fe987e0d t/Task-Tags/02-pod_coverage.t
 SHA1 d6af287d935876d2e19dec4c81aef1854423ecd3 t/Task-Tags/03-pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJVC7xnAAoJEJe+XXKaIuTlyNoIALhiC5Tx236hnPMutfRoP3lq
-z32wZEKOQ4/hvaWGCAUfLHVukVdrrWzFg1KEf1+58Un/vYVOX1Yp0N1yXrpWd8LN
-+lB1bBEPLP9zZjZiCMYd9cMIAJYho/Vxyo/asbahU41/xYJ0Qj7ZGaKHkLXF+myn
-tKKhT4o7HCQCSlnWQYXPSpSDa+8Dxadv2/6PttyUULi2ozsaJnlq6jDhlaxkSkBK
-DTJkA4UPhNAUXRS3ctkUetTPZEFKg53ZICcoe/k3zpdfFfoB0+Dau1Hti9Fnrjb6
-TXL7Z+UQsS7Vqw/dXvGzoGrhOh8TnhSGI98DL8mC+jDRgkoCxms5TBrNZQu/k9A=
-=qeZS
+iQEcBAEBAgAGBQJV2vdsAAoJEJe+XXKaIuTlRHUIAKQWf2wtN1OAM2qcgipgOmnT
+CYPTgHWcCmLI2TIoWPwe8R47543wZx7aUg/7JZOhGuL1LJ++2kX/7wU6WZ7jRiGm
+KvzzzOKH2e5w+IYGd+T6fi/StODNhj3EzWARMrdy5RHv0yOiOWm64F+2XARYtnmn
+MGB7pLmoSkejrSPc5YhcSJovy4739C1OnchDGOqt8YwFHzDbC44N8ge3/CSZnyig
+5rVqquuh3I7CaWLXG2yHLvmYBtO/Su4ROMjduzRGmKWLxzaku6DM+7XIS5AHVLqB
+Tq0476tnKSvp2xJYK9WkUlCsRZD0D2Bn3nvCBd0o5Jbk8YH/nDAe8Liv7AdXqoo=
+=8U9P
 -----END PGP SIGNATURE-----
