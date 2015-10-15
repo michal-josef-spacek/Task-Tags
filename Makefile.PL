@@ -19,7 +19,7 @@ name 'Task-Tags';
 readme_from 'Tags.pm';
 recursive_author_tests('xt');
 requires 'Tags' => 0.03;
-requires 'Tags::Element' => 0.01;
+requires 'Tags::Element' => 0.02;
 requires 'Tags::Output::Indent' => 0.01;
 requires 'Tags::Output::LibXML' => 0.01;
 requires 'Tags::Output::PYX' => 0.02;

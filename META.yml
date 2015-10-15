@@ -23,7 +23,7 @@ no_index:
     - xt
 requires:
   Tags: 0.03
-  Tags::Element: 0.01
+  Tags::Element: 0.02
   Tags::Output::Indent: 0.01
   Tags::Output::LibXML: 0.01
   Tags::Output::PYX: 0.02
