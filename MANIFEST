@@ -1,5 +1,7 @@
 Changes
 inc/Module/Install.pm
+inc/Module/Install/AuthorRequires.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -14,8 +16,8 @@ MANIFEST			This list of files
 META.yml
 README
 SIGNATURE
-t/Task-Tags/00-use.t
-t/Task-Tags/01-version.t
-t/Task-Tags/02-pod_coverage.t
-t/Task-Tags/03-pod.t
+t/Task-Tags/01-use.t
+t/Task-Tags/02-version.t
 Tags.pm
+xt/Task-Tags/01-pod_coverage.t
+xt/Task-Tags/02-pod.t
