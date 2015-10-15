@@ -35,6 +35,10 @@ Structure oriented SGML/XML/HTML/etc. elements manipulation.
 
 Element utilities for 'Tags'.
 
+=item L<Tags::Output>
+
+Base class for Tags::Output::*.
+
 =item L<Tags::Output::Indent>
 
 Indent class for Tags.
@@ -58,6 +62,14 @@ Structure class for 'Tags' output.
 =item L<Tags::Output::LibXML>
 
 Printing 'Tags' structure by LibXML library.
+
+=item L<Tags::Utils>
+
+Utils module for Tags.
+
+=item L<Tags::Utils::Preserve>
+
+Class to check if content in element is preserved?
 
 =back
 

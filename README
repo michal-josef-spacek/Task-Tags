@@ -11,6 +11,9 @@ SEE ALSO
     Tags::Element
         Element utilities for 'Tags'.
 
+    Tags::Output
+        Base class for Tags::Output::*.
+
     Tags::Output::Indent
         Indent class for Tags.
 
@@ -28,6 +31,12 @@ SEE ALSO
 
     Tags::Output::LibXML
         Printing 'Tags' structure by LibXML library.
+
+    Tags::Utils
+        Utils module for Tags.
+
+    Tags::Utils::Preserve
+        Class to check if content in element is preserved?
 
 REPOSITORY
     <https://github.com/tupinek/Task-Tags>
