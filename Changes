@@ -3,6 +3,7 @@
  - Move author tests to xt/ directory.
  - Update Tags to 0.04 version.
  - Update Tags::Element to 0.02 version.
+ - Update Tags::Output::Indent to 0.04 version.
  - Update Tags::Output::PYX to 0.03 version.
 
 0.04 2015-08-24T12:52:27+02:00
