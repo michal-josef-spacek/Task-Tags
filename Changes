@@ -1,6 +1,7 @@
 0.05
  - Add new modules to SEE ALSO section in doc.
  - Move author tests to xt/ directory.
+ - Update Tags to 0.04 version.
  - Update Tags::Element to 0.02 version.
  - Update Tags::Output::PYX to 0.03 version.
 
