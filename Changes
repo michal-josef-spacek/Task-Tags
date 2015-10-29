@@ -4,6 +4,7 @@
  - Update Tags to 0.04 version.
  - Update Tags::Element to 0.02 version.
  - Update Tags::Output::Indent to 0.04 version.
+ - Update Tags::Output::LibXML to 0.02 version.
  - Update Tags::Output::PYX to 0.03 version.
  - Update Tags::Output::Structure to 0.04 version.
 
