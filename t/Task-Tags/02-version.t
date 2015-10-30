@@ -8,4 +8,4 @@ use Test::More 'tests' => 2;
 use Test::NoWarnings;
 
 # Test.
-is($Task::Tags::VERSION, 0.05, 'Version.');
+is($Task::Tags::VERSION, 0.06, 'Version.');
