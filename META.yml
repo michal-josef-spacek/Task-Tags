@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  Tags: 0.04
+  Tags: 0.05
   Tags::Element: 0.02
   Tags::Output::Indent: 0.04
   Tags::Output::LibXML: 0.02

@@ -18,7 +18,7 @@ license 'bsd';
 name 'Task-Tags';
 readme_from 'Tags.pm';
 recursive_author_tests('xt');
-requires 'Tags' => 0.04;
+requires 'Tags' => 0.05;
 requires 'Tags::Element' => 0.02;
 requires 'Tags::Output::Indent' => 0.04;
 requires 'Tags::Output::LibXML' => 0.02;
